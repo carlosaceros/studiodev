@@ -12,7 +12,7 @@ body{
 }
 
 header{
-	padding: 10px 0;
+	padding: 5px 0;
 	width: 100%;
 	position: fixed;
 	background-color: rgba(48, 48, 48, 0.5);
@@ -24,7 +24,7 @@ header img{
 
 header nav {
 	float: right;        /*envía a la derecha de la pagina*/
-	margin-top: 10px;    /*agrega margen en el borde superior*/
+	margin-top: 15px;    /*agrega margen en el borde superior*/
 }
 
 header nav a{       /*esta etiqueta modifica dentro del header en todas las nav,las etiquetas "a"*/
